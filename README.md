@@ -25,3 +25,12 @@ Presented below is a snippet displaying the initial six rows of this dataframe.
 
 I initially attempted to preserve all the attributes for clustering, namely PC1. Subsequently, I utilized scatterplots to evaluate the effectiveness of the model when considering the variables.
 
+https://github.com/bhat123hitakshi/Dimensionality-Reduction-and-Clustering/blob/main/Rplot.png
+
+This is the cluster plot i got 
+
+# Reference:
+Shiri Margel, G. S. (July 31 , 2017). Clustering and Dimensionality Reduction: Understanding the “Magic” Behind Machine Learning, 100.
+
+
+
