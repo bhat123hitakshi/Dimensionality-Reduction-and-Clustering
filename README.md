@@ -23,3 +23,5 @@ Presented below is a snippet displaying the initial six rows of this dataframe.
 | 5          | 59.37552           | 54.69326            | 3.031107    | 3       |
 | 6          | 57.00109           | 54.09745            | 2.251470    | 3       |
 
+I initially attempted to preserve all the attributes for clustering, namely PC1. Subsequently, I utilized scatterplots to evaluate the effectiveness of the model when considering the variables.
+
