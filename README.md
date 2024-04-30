@@ -1,5 +1,4 @@
 # Dimensionality-Reduction-and-Clustering
-# Dimensionality-Reduction-and-Clustering
 # lab 3 case study : Dimenionality Reduction and clustering 
 # simulated data :
 I initiated the simulation of data by incorporating three primary attributes for a cohort of 100 students, each identified by a distinct Student ID.
