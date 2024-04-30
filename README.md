@@ -24,9 +24,11 @@ Presented below is a snippet displaying the initial six rows of this dataframe.
 
 I initially attempted to preserve all the attributes for clustering, namely PC1. Subsequently, I utilized scatterplots to evaluate the effectiveness of the model when considering the variables.
 
+Principal Component Analysis (PCA) was employed for the purpose of diminishing the dimensionality of the dataset consisting of three features (student_engagement, student_performance, student_gpa) to two principal components. This reduction facilitates a more straightforward visualization and understanding of the data, while preserving the majority of the initial variance.
+
 https://github.com/bhat123hitakshi/Dimensionality-Reduction-and-Clustering/blob/main/Rplot.png
 
-This is the cluster plot i got 
+This is the cluster plot i got, by employing both dimensionality reduction and clustering methodologies, the dataset encompassing student characteristics was proficiently examined and divided into significant clusters corresponding to their levels of involvement, academic achievement, and Grade Point Average (GPA). The outcomes of the clustering process have the potential to offer a deeper understanding of patterns in student behavior or academic progression, thus presenting valuable insights for educational establishments in customizing interventions and support approaches for diverse student cohorts.
 
 # Reference:
 Shiri Margel, G. S. (July 31 , 2017). Clustering and Dimensionality Reduction: Understanding the “Magic” Behind Machine Learning, 100.
